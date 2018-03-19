@@ -1,0 +1,2 @@
+"ServerName","Processor","Model","Manufacturer","PhysicalCores","CPU_L2CacheSize","CPU_L3CacheSize","Sockets","LogicalCores","OS_Name","OS_Version","TotalPhysical_Memory_GB","TotalVirtual_Memory_MB","TotalVisable_Memory_MB"
+"DESKTOP-NQDDP2O","Intel(R) Core(TM) i5-2450M CPU @ 2.50GHz","Intel64 Family 6 Model 42 Stepping 7","GenuineIntel","2","512","3072","CPU 1","4","Microsoft Windows 10 Enterprise","10.0.16299","4","11.91","3.91"
